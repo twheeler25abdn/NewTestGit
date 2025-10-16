@@ -2,7 +2,7 @@ This is a Readme learning thing
 Hello I am adding another line of stuff
 ## Heading this is fun
 
-[] Tick List
+[ ] Tick List
 
-[] Have I completed Week 4 R Markdown 
+[ ] Have I completed Week 4 R Markdown 
 
