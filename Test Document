@@ -5,10 +5,10 @@ This is my text: I am doing a test of text to learn options
 # This is my subheading
 
 
-- [] Install GitHub desktop and connect it to your GitHub account
+- [x] Install GitHub desktop and connect it to your GitHub account
 
-- [] Tick list item two
+- [x] Tick list item two
 
-- [] Tick list item three
+- [x] Tick list item three
 
-- [] Adding a 4th as a test
+- [x] Adding a 4th as a test
